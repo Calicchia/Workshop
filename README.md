@@ -1,7 +1,7 @@
 # Workshop Responsive Web Design Based On CSS GRID
 
 ### Today I want you to build a webpage using only CSS grid to create your website's layout.
-RIP Bootstrap(for one day :))
+###### RIP Bootstrap(for one day :))
                            
 ### Why?
 I believe it will give you an insight on how to create layouts. In the future you will easier build the grid all by yourself which gives you full control of your webpage. It will help you organise your webpage and make it beautifull for all devices. 
@@ -32,4 +32,4 @@ Work this way:
 ### Questions? 
 I'm here to help and learn. Don't hesitate to ask questions as we can both learn something from it! 
 
-##Have Fun!
+## Have Fun!
