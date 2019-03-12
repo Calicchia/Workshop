@@ -10,6 +10,7 @@ I believe it will give you an insight on how to create layouts. In the future yo
 You can choose your project. This can be a portfilio, product landing page, photo gallery,...
 
 Some examples:
+
  [basic layout](https://hanshetzheim.github.io/Workshop/)
  
  [I'm an inline-style link](https://www.google.com)
