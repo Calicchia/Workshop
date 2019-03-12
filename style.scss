@@ -1,0 +1,138 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  text-align: center;
+  color: white;
+
+
+  .container{
+    max-width: 100vw;
+    max-height: 100vw;
+    display: grid;
+    grid-template-columns: repeat(5, 20vw);
+    grid-template-rows: repeat(5, 20vh);
+    grid-template-areas:
+      "h h h h h"
+      "s c c c c"
+      "s c c c c"
+      "s c c c c"
+      "f f f f f";
+
+
+
+    .header{
+      background-color: red;
+      grid-area: h;
+      border: 1px solid white;
+
+    }
+    .sidebar{
+      background-color: blue;
+      grid-area: s;
+      border: 1px solid white;
+    }
+    .content{
+      background-color: green;
+      grid-area: c;
+
+      .miniContainer{
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-areas:
+          "a a a"
+          "b b b"
+          "c c c";
+
+        .one{
+          grid-area: a;
+          border: 1px solid white;
+
+        }
+        .two{
+          grid-area: b;
+          border: 1px solid white;
+
+        }
+        .three{
+          grid-area: c;
+          border: 1px solid white;
+
+        }
+      }
+    }
+    .footer{
+      background-color: yellow;
+      grid-area: f;
+      border: 1px solid white;
+
+    }
+  }
+
+@media only screen and (max-width: 800px){
+  .container{
+    max-width: 100vw;
+    max-height: 100vw;
+    display: grid;
+    grid-template-columns: repeat(4, 25vw);
+    grid-template-rows: repeat(10, 10vh);
+    grid-template-areas:
+      "h h h h"
+      "h h h h"
+      "s s s s"
+      "c c c c"
+      "c c c c"
+      "c c c c"
+      "c c c c"
+      "c c c c"
+      "c c c c"
+      "f f f f";
+
+    .header{
+      background-color: red;
+      grid-area: h;
+    }
+    .sidebar{
+      background-color: blue;
+      grid-area: s;
+    }
+    .content{
+      background-color: green;
+      grid-area: c;
+      .miniContainer{
+        display: grid;
+        grid-template-areas:
+         "a a"
+         "b b"
+         "c c";
+
+
+        .one{
+          // width: 100%;
+          // height: 100%;
+          grid-area: a;
+        }
+        .two{
+          // width: 100%;
+          // height: 100%;
+          grid-area: b;
+        }
+        .three{
+          // width: 100%;
+          // height: 100%;
+          grid-area: c;
+        }
+      }
+    }
+    .footer{
+      background-color: yellow;
+      grid-area: f;
+
+    }
+  }
+}
+}
