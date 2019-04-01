@@ -14,14 +14,14 @@ Ik heb een video ontdekt aan het begin van onze training. Dit heeft me enorm geh
 Ik heb enkele oefeningen voorzien die je doorheen deze workshop kan maken. Hierna stopt het natuurlijk niet. Zin in een groter project? Kies zelf je eigen project en pas er CSS GRID op toe!
 
 
-# Oef 1:
+### Oef 1:
 Probeer je webpagina in een basic grid te gieten die responsive is. 
 
 Een voorbeeld vind je hier:
 
  [basic layout](https://hanshetzheim.github.io/Workshop/)
  
-# Oef 2:
+### Oef 2:
 Deze pagina is gridloos. Pas de css aan zodat ie
  
  [Grid it up!](https://www.google.com)
@@ -29,14 +29,12 @@ Deze pagina is gridloos. Pas de css aan zodat ie
 
 Today is all about understanding your layout. Start with the basics and build your grid. Use colours to see how everything shows on your website. Once your grid is fully worked out you can start to zoom in and add more content details. 
 
-Work this way:
-1. Idea
-2. Sketch
-3. Build the Frame(Responsive for all devices)
-4. Build the inner Frame
-5. Start adding content
 
-### Questions? 
-I'm here to help and learn. Don't hesitate to ask questions as we can both learn something from it! 
+### Need Help? 
+
+[Documentatie CSS GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[Media Queries](https://www.w3schools.com/csS/css3_mediaqueries_ex.asp )
+[ASK ME](https://google.com)
+
 
 ## Have Fun!
