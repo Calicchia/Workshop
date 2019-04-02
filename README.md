@@ -30,7 +30,7 @@ Deze pagina is gridloos. Pas de css aan zodat ie er uit ziet zoals de finished H
  
  
 
-### new CSS Grid Tool
+### New CSS Grid Tool
 Firefox lanceerde onlangs hun nieuwe developer edition waarbij je nu over een layout plugin beschikt in de inspector die je meer zicht geeft op je grid.
 
 [Firefox developer Edition](https://www.mozilla.org/nl/firefox/developer/)
