@@ -43,7 +43,7 @@ Firefox lanceerde onlangs hun nieuwe developer edition waarbij je nu over een la
 
 [Media Queries](https://www.w3schools.com/csS/css3_mediaqueries_ex.asp )
 
-[ASK ME](https://google.com)
+[ASK ME](http://lmgtfy.com/?q=Ask+me!)
 
 
 
