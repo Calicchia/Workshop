@@ -24,7 +24,7 @@ Een voorbeeld vind je hier:
  [basic layout](https://hanshetzheim.github.io/Workshop/)
  
 #### Oef 2:
-Deze pagina is gridloos. Pas de css aan zodat ie er uit ziet zoals de finished HTML.
+Deze pagina is gridloos. Pas de css aan zodat ie er uit ziet zoals de finished HTML. Kopieer de files even in je eigen editor en je kan starten! 
  
  [Grid it up!](https://github.com/HansHetzheim/Workshop/tree/master/Oef%202)
  
